@@ -1,7 +1,7 @@
 {
-  "name": "userserver",
-  "description": "deploy userserver to Heroku.",
-  "keywords": ["userserver"],
+  "name": "workserver",
+  "description": "deploy workserver to Heroku.",
+  "keywords": ["workserver"],
   "env": {
     "VER": {
        "description": "版本号",
@@ -16,7 +16,7 @@
        "value": "20"
      }
   },
-  "website": "https://github.com/tomailis/userserver",
-  "repository": "https://github.com/tomailis/userserver",
+  "website": "https://github.com/tomailis/workserver",
+  "repository": "https://github.com/tomailis/workserver",
   "stack": "container"
  }
