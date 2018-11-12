@@ -29,7 +29,7 @@
          "port": 443, 
          "users": [
          {
-           "id": "your UUID",
+           "id": "UUID",
            "alterId": 64,
            "security": "none"
          }
