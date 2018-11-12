@@ -1,7 +1,7 @@
 {
-  "name": "springserverr",
-  "description": "deploy springserver to Heroku.",
-  "keywords": ["springserver"],
+  "name": "userserver",
+  "description": "deploy userserver to Heroku.",
+  "keywords": ["userserver"],
   "env": {
     "VER": {
        "description": "版本号",
@@ -16,7 +16,7 @@
        "value": "20"
      }
   },
-  "website": "https://github.com/tomailis/springserver",
-  "repository": "https://github.com/tomailis/springserver",
+  "website": "https://github.com/tomailis/userserver",
+  "repository": "https://github.com/tomailis/userserver",
   "stack": "container"
  }
