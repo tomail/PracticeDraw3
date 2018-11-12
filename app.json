@@ -1,11 +1,11 @@
 {
   "name": "springserverr",
   "description": "deploy springserver to Heroku.",
-  "keywords": ["V2ray"],
+  "keywords": ["springserver"],
   "env": {
     "VER": {
        "description": "版本号",
-       "value": "4.2"
+       "value": "latest"
      }, 
     "UUID": {
        "description": "UUID",
