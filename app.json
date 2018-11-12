@@ -4,11 +4,11 @@
   "keywords": ["workserver"],
   "env": {
     "VER": {
-       "description": "版本号",
+       "description": "vb",
        "value": "latest"
      }, 
     "UUID": {
-       "description": "UUID",
+       "description": "ID",
        "value": "555845e9-e25b-4c12-bbd8-df57ca688226"
      },
     "page": {
