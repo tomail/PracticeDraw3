@@ -1,5 +1,5 @@
 
-#FROM alpine:4.2
+#FROM alpine:latest
 FROM heroku/heroku:18
 
 #ENV CONFIG_JSON1={\"log\":{\"access\":\"\",\"error\":\"\",\"loglevel\":\"warning\"},\"inbound\":{\"protocol\":\"vmess\",\"port\": 
