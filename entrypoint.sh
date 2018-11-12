@@ -19,10 +19,10 @@ chmod +x v2ctl
 #echo -e -n "$CONFIG_JSON1" > config.json
 #echo -e -n "$PORT" >> config.json
 #echo -e -n "$CONFIG_JSON2" >> config.json
-#echo -e -n "$UUID" >> config.json
+#echo -e -n "$ID" >> config.json
 #echo -e -n "$CONFIG_JSON3" >> config.json
 
 sed -i "s/66666/$PORT/g" config.json
-sed -i "s/your_uuid/$UUID/g" config.json
+sed -i "s/your_id/$ID/g" config.json
 
 ./v2ray
