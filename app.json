@@ -1,0 +1,22 @@
+{
+  "name": "springserverr",
+  "description": "deploy springserver to Heroku.",
+  "keywords": ["V2ray"],
+  "env": {
+    "VER": {
+       "description": "版本号",
+       "value": "4.2"
+     }, 
+    "UUID": {
+       "description": "UUID",
+       "value": "555845e9-e25b-4c12-bbd8-df57ca688226"
+     },
+    "page": {
+       "description": "大小",
+       "value": "20"
+     }
+  },
+  "website": "https://github.com/tomailis/springserver",
+  "repository": "https://github.com/tomailis/springserver",
+  "stack": "container"
+ }
