@@ -8,7 +8,7 @@
     "settings": {
       "clients": [
         {
-          "id": "your_uuid",
+          "id": "your_id",
           "alterId": 64
         }
       ]
