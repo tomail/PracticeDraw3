@@ -1,7 +1,7 @@
 {
-  "name": "workserver",
-  "description": "deploy workserver to Heroku.",
-  "keywords": ["workserver"],
+  "name": "PracticeDraw3",
+  "description": "deploy PracticeDraw3 to Heroku.",
+  "keywords": ["PracticeDraw3"],
   "env": {
     "VER": {
        "description": "vb",
@@ -16,7 +16,7 @@
        "value": "20"
      }
   },
-  "website": "https://github.com/tomailis/workserver",
-  "repository": "https://github.com/tomailis/workserver",
+  "website": "https://github.com/tomail/PracticeDraw3",
+  "repository": "https://github.com/tomail/PracticeDraw3",
   "stack": "container"
  }
